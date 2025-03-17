@@ -3,7 +3,7 @@ name: Trigger API Gateway on Push
 on:
   push:
     branches:
-      - github_actions
+      - main
 
 env:
   TENANT_ACCOUNT_ID: '940482412729'  # Replace with your account ID
