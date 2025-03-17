@@ -10,7 +10,6 @@ This simplifies upgrade and backup management for operations teams irrespective 
 
 ## Highlights
 
-
 - Centralized control plane for EKS clusters operational activities across accounts and regions
 - Visibility into critical cluster aspects (e.g., Kubernetes version, worker nodes, APIs)
 - Simplifies centralized status and statistics reports
