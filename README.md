@@ -22,6 +22,7 @@ This simplifies upgrade and backup management for operations teams irrespective 
 
 ## Workflow
 
+
 ![Workflow](images/EKS_upgrade_wf.png)
 
 ## Centralized Dashboard
